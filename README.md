@@ -1,12 +1,3 @@
-<div id="top"></div>
-<p align="center">
-  <img src="https://img.shields.io/github/contributors/dropout1337/Discord-Payment-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/dropout1337/Discord-Payment-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/dropout1337/Discord-Payment-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/dropout1337/Discord-Payment-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/dropout1337/Discord-Payment-Checker.svg?style=for-the-badge"/>
-</p>
-  
 ---------------------------------------
   
 <br/>
@@ -21,9 +12,6 @@
     Uses discords api to see if a token has a valid payment method.
     <br />
     <br />
-    <a href="">Report Bug</a>
-    ·
-    <a href="">Request Feature</a>
   </p>
 </div>
   
@@ -35,6 +23,3 @@
 * Checks if vast payment was valid.
 
 ---------------------------------------
-
-### Contact
-View my contact information on my [website](https://dropout.black/)
