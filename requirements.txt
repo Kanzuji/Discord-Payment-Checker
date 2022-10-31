@@ -1,0 +1,6 @@
+cypress==1.0.4
+requests
+asyncio
+aiohttp
+tasksio
+logging
